@@ -1,2 +1,2 @@
 este es el segundo documento para que ver que funcione bien el GitHub
-modificacion 1
+modificacion 2
